@@ -7,6 +7,5 @@ public class GitTest
     {
         System.out.println("Hello form git");
         //comment
-        //comment2
     }
 }
