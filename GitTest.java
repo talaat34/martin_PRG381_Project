@@ -8,5 +8,6 @@ public class GitTest
         System.out.println("Hello form git");
         //comment
         //secondComment
+        System.out.println("Change 2");
     }
 }
